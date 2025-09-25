@@ -4,8 +4,10 @@ To play:
 
 1. Open the webpage from the following link: https://mjthejumpman.github.io/TOP-rock-paper-scissors/
 
-2. Close the dialogue box and reload the page.
+2. Close the dialogue box.
 
 3. Open the developer console by pressing (Ctrl + Shift + C).
 
-4. Enjoy!
+4. Navigate to the "Console" tab and reload the page.
+
+5. Enjoy!
