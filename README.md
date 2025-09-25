@@ -8,4 +8,6 @@ To play:
 
 3. Open the developer console by pressing (Ctrl + Shift + C).
 
-4. Enjoy!
+4. Navigate to the "Console" tab and reload the page
+
+5. Enjoy!

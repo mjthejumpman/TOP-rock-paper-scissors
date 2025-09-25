@@ -26,14 +26,12 @@ function playRound() {
 
         function getHumanChoice() {
             choice = prompt("Please enter your choice: Rock, Paper or Scissors: ");
-            console.log(choice)
             return choice.toLowerCase();
 
         }
 
         let compSel = getComputerChoice();
         let humanSel = getHumanChoice();
-        console.log("h:" + humanSel + ", c:" + compSel);
 
         switch(humanSel + "-" + compSel) {
             case "rock-scissors":
